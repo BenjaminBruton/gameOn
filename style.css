@@ -5,7 +5,6 @@ body {
   
   .grid {
     height: 90vh;
-    /* margin-top: 10vh; */
     box-sizing: border-box;
     display: grid;
     padding: 0.5em;
@@ -65,10 +64,6 @@ body {
 
     color: #3919FA;
   }
-  
-  /* .category-item > a:visited {
-    color: #3919FA;
-  } */
 
   .answer {
     position: absolute;
